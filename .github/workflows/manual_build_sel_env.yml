@@ -66,9 +66,7 @@ on:
           - "Awok-Touch"
           - "WaveSentry-R1"
           - "LAUNCHER_WaveSentry-R1"
-          
-          permissions:
-  contents: read
+
   
 jobs:
   compile_selected:
