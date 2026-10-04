@@ -149,7 +149,7 @@ static const uint8_t LP_TX = 11;
 #define SDCARD_MISO SPI_MISO_PIN
 #define SDCARD_MOSI SPI_MOSI_PIN
 // CC1101
-#define CC1101_GDO0_PIN 8
+#define CC1101_GDO0_PIN 26
 #define CC1101_SS_PIN 9
 #define CC1101_MOSI_PIN SPI_MOSI_PIN
 #define CC1101_SCK_PIN SPI_SCK_PIN
@@ -161,7 +161,7 @@ static const uint8_t LP_TX = 11;
 #define NRF24_SCK_PIN SPI_SCK_PIN
 #define NRF24_MISO_PIN SPI_MISO_PIN
 // Ethernet
-#define W5500_INT_PIN 8
+#define W5500_INT_PIN 26
 #define W5500_SS_PIN 9
 #define W5500_MOSI_PIN SPI_MOSI_PIN
 #define W5500_SCK_PIN SPI_SCK_PIN
